@@ -45,7 +45,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/37308</dc:source>
 		<dc:source>https://archive.org/details/delugeanhistori00siengoog</dc:source>
 		<dc:source>https://archive.org/details/delugeanhistori01siengoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">The original two volumes were reworked into a single volume (including chapter renumbering) for this production.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Deluge</meta>
