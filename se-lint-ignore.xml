@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="remarks-on-personages-in-the-deluge.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>“The Deluge” is the book title.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>

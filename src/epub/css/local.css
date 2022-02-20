@@ -6,10 +6,14 @@ body [xml|lang]{
 	font-style: italic;
 }
 
+table{
+	margin: 1em auto;
+}
+
 header{
 	font-variant: small-caps;
 	margin: 1em 0;
-	text-align: left;
+	text-align: initial;
 }
 
 footer{
@@ -23,7 +27,6 @@ footer{
 	font-variant: small-caps;
 }
 
-[epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
@@ -42,8 +45,7 @@ footer{
 }
 
 [epub|type~="z3998:poem"] p + p,
-[epub|type~="z3998:song"] p + p,
-[epub|type~="z3998:verse"] p + p{
+[epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
 
