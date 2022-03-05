@@ -77,3 +77,8 @@ p span.i3{
 	padding-left: 4em;
 	text-indent: -1em;
 }
+
+#chapter-7 [epub|type~="z3998:recipient"],
+#chapter-7 [epub|type~="z3998:salutation"]{
+	font-variant: normal;
+}
