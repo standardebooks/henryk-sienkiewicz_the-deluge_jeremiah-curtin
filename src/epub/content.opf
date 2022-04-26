@@ -38,9 +38,10 @@
 		<meta id="collection-1" property="belongs-to-collection">The Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A Swedish invasion of 17th century Poland threatens the entire Commonwealth.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Six years after the events of &lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz/with-fire-and-sword/jeremiah-curtin"&gt;&lt;i&gt;With Fire and Sword&lt;/i&gt;&lt;/a&gt; the Polish Commonwealth has recovered from the earlier bloody wars against the Cossacks and the Crimean Khanate, but the King is being kept busy by skirmishes on the Russian border. Unfortunately for the Commonwealth, this wealthy land is all too tempting for the Swedish king Karl Gustav who sweeps in to claim his prize, forcing soldiers and nobles to reconsider where their loyalties truly lie. This backdrop allows the impetuous Pan Andrei Kmita to demonstrate all sides of his loyalty and recklessness, even at the expense of his comrades and his fiancée Panna Aleksandra Billevich.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Deluge&lt;/i&gt; is the second book in &lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz"&gt;Henryk Sienkiewicz’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/the-trilogy"&gt;trilogy of novels&lt;/a&gt; dealing with a series of wars in seventeenth-century Poland. Written two years after &lt;i&gt;With Fire and Sword&lt;/i&gt;, it was serialized in the newspaper that Sienkiewicz was editor-in-chief of, and started to cement his reputation as an novelist. Throughout the Trilogy Sienkiewicz weaves historical events and people with fictional characters and stories to great effect; this mastery of the historical epic went on to earn him the Nobel Prize for Literature in 1905. This edition is based on the 1891 translation by Jeremiah Curtin.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37198</dc:source>
@@ -50,7 +51,7 @@
 		<meta property="se:production-notes">The original two volumes were reworked into a single volume (including chapter renumbering) for this production.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Deluge</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Deluge_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henryk-sienkiewicz_the-deluge_jeremiah-curtin</meta>
 		<dc:creator id="author">Henryk Sienkiewicz</dc:creator>
 		<meta property="file-as" refines="#author">Sienkiewicz, Henryk</meta>
