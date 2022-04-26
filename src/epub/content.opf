@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/henryk-sienkiewicz/the-deluge/jeremiah-curtin</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-04-26T21:19:02Z</dc:date>
+		<meta property="dcterms:modified">2022-04-26T21:19:02Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -41,16 +41,17 @@
 		<dc:description id="description">A Swedish invasion of 17th century Poland threatens the entire Commonwealth.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Six years after the events of &lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz/with-fire-and-sword/jeremiah-curtin"&gt;&lt;i&gt;With Fire and Sword&lt;/i&gt;&lt;/a&gt; the Polish Commonwealth has recovered from the earlier bloody wars against the Cossacks and the Crimean Khanate, but the King is being kept busy by skirmishes on the Russian border. Unfortunately for the Commonwealth, this wealthy land is all too tempting for the Swedish king Karl Gustav who sweeps in to claim his prize, forcing soldiers and nobles to reconsider where their loyalties truly lie. This backdrop allows the impetuous Pan Andrei Kmita to demonstrate all sides of his loyalty and recklessness, even at the expense of his comrades and his fiancée Panna Aleksandra Billevich.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Deluge&lt;/i&gt; is the second book in &lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz"&gt;Henryk Sienkiewicz’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/the-trilogy"&gt;trilogy of novels&lt;/a&gt; dealing with a series of wars in seventeenth-century Poland. Written two years after &lt;i&gt;With Fire and Sword&lt;/i&gt;, it was serialized in the newspaper that Sienkiewicz was editor-in-chief of, and started to cement his reputation as an novelist. Throughout the Trilogy Sienkiewicz weaves historical events and people with fictional characters and stories to great effect; this mastery of the historical epic went on to earn him the Nobel Prize for Literature in 1905. This edition is based on the 1891 translation by Jeremiah Curtin.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Deluge&lt;/i&gt; is the second book in &lt;a href="https://standardebooks.org/ebooks/henryk-sienkiewicz"&gt;Henryk Sienkiewicz’s&lt;/a&gt; &lt;a href="https://standardebooks.org/collections/the-trilogy"&gt;trilogy of novels&lt;/a&gt; dealing with a series of wars in seventeenth-century Poland. Written two years after &lt;i&gt;With Fire and Sword&lt;/i&gt;, it was serialized in the newspaper that Sienkiewicz was editor-in-chief of, and started to cement his reputation as an novelist.&lt;/p&gt;
+			&lt;p&gt;Throughout the Trilogy Sienkiewicz weaves historical events and people with fictional characters and stories to great effect; this mastery of the historical epic went on to earn him the Nobel Prize for Literature in 1905. This edition is based on the 1891 translation by Jeremiah Curtin.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37198</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/37308</dc:source>
 		<dc:source>https://archive.org/details/delugeanhistori00siengoog</dc:source>
 		<dc:source>https://archive.org/details/delugeanhistori01siengoog</dc:source>
-		<meta property="se:production-notes">The original two volumes were reworked into a single volume (including chapter renumbering) for this production.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">The original two volumes were reworked into a single volume (including chapter renumbering) for this production. A map was not included as equivalents are easily found online.</meta>
+		<meta property="se:word-count">487032</meta>
+		<meta property="se:reading-ease.flesch">70.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Deluge_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henryk-sienkiewicz_the-deluge_jeremiah-curtin</meta>
 		<dc:creator id="author">Henryk Sienkiewicz</dc:creator>
@@ -83,6 +84,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
